@@ -1,3 +1,7 @@
+#CHECK LINE 77,78
+
+
+
 import pyttsx3
 import speech_recognition as sr
 import datetime
@@ -55,7 +59,8 @@ def greet():
 
 
 
-
+#We have set paths of apps according to our device's directories. 
+#In order to run this on your laptop, please change paths first
 
 
 
